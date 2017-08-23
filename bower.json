@@ -1,5 +1,6 @@
 {
   "name": "guessLanguage.js",
+  "version": "0.4.0",
   "description": "Guess the natural language of a run of text",
   "main": [
     "./lib/guessLanguage.js",
