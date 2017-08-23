@@ -1,0 +1,25 @@
+{
+  "name": "guessLanguage.js",
+  "description": "Guess the natural language of a run of text",
+  "main": [
+    "./lib/guessLanguage.js",
+    "./lib/_languageData.js"
+  ],
+  "authors": [
+    "Rich Tibbett <rich.tibbett@gmail.com>"
+  ],
+  "license": "LGPL",
+  "keywords": [
+    "guesslanguage",
+    "guess_language",
+    "guesslanguage.js"
+  ],
+  "homepage": "http://richtr.github.io/guessLanguage.js/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
